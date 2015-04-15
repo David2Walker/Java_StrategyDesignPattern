@@ -3,7 +3,7 @@ import java.util.*;
 public class GuitarHero {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 			int c;
 			int d;
 			GameCharacter player = null;
